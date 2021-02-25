@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="clear">Clear</string>
+    <string name="draw">Draw</string>
+    <string name="distance">Distance</string>
+</resources>
